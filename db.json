@@ -7,5 +7,70 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "logs": [
+    {
+      "id": 1,
+      "serviceNowAlertLevel": "Minor",
+      "sns_message": "Sample message",
+      "host": "ip-10-20-22-22",
+      "service": "gtsfx-rule-server"
+    },
+    {
+      "id": 2,
+      "serviceNowAlertLevel": "Minor",
+      "sns_message": "Sample message",
+      "host": "ip-10-20-22-22",
+      "service": "gtsfx-rule-server"
+    },
+    {
+      "id": 3,
+      "serviceNowAlertLevel": "Minor",
+      "sns_message": "Sample message",
+      "host": "ip-10-20-22-22",
+      "service": "gtsfx-rule-server"
+    },
+    {
+      "id": 4,
+      "serviceNowAlertLevel": "Minor",
+      "sns_message": "Sample message",
+      "host": "ip-10-20-22-22",
+      "service": "gtsfx-oms-server"
+    },
+    {
+      "id": 1,
+      "serviceNowAlertLevel": "Major",
+      "sns_message": "Sample message",
+      "host": "ip-10-20-22-22",
+      "service": "gtsfx-oms-server"
+    },
+    {
+      "id": 5,
+      "serviceNowAlertLevel": "Minor",
+      "sns_message": "Sample message",
+      "host": "ip-10-20-22-22",
+      "service": "gtsfx-rule-server"
+    },
+    {
+      "id": 6,
+      "serviceNowAlertLevel": "Major",
+      "sns_message": "Sample message",
+      "host": "ip-10-20-22-22",
+      "service": "gtsfx-rule-server"
+    },
+    {
+      "id": 7,
+      "serviceNowAlertLevel": "Minor",
+      "sns_message": "Sample message",
+      "host": "ip-10-20-22-22",
+      "service": "gtsfx-fund-hedge-server"
+    },
+    {
+      "id": 8,
+      "serviceNowAlertLevel": "Major",
+      "sns_message": "Sample message",
+      "host": "ip-10-20-22-22",
+      "service": "gtsfx-fund-hedge-server"
+    }
+  ]
 }
